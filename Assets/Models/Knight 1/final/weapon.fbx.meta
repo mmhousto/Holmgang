@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: d23e23ea19161d44db423413d01724fa
+guid: 8cece4b88e7b56d45b63abd085146299
 ModelImporter:
   serializedVersion: 20300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MAT_SWORD
-    second: {fileID: 2100000, guid: 91d98163a1ddb04478c3a5e17064fd62, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Shield
-    second: {fileID: 2100000, guid: babf546644e61024eb1cadeb7d77063d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: phong1SG
-    second: {fileID: 2100000, guid: ee0e64954ab1df14c9ec2dda0322a4f3, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
